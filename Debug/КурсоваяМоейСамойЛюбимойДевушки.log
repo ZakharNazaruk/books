@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (КурсоваяМоейСамойЛюбимойДевушки.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  КурсоваяМоейСамойЛюбимойДевушки.cpp
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(326,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(351,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(433,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(488,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(543,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(483,9): warning C4101: 'ch': unreferenced local variable
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(629,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(644,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(689,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(704,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(749,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(764,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(807,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(822,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(877,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(892,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(960,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(1036,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(1051,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(1131,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(1146,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(1325,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(1480,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки\КурсоваяМоейСамойЛюбимойДевушки.cpp(1658,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  КурсоваяМоейСамойЛюбимойДевушки.vcxproj -> C:\Users\zahar\OneDrive\Рабочий стол\КурсоваяМоейСамойЛюбимойДевушки\Debug\Учёт книг в библиотеке.exe
